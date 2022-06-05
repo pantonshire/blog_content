@@ -11,7 +11,7 @@ published = '2022-06-05T11:00:13.318217Z'
 ## Subheading
 Here is some **text**!!
 
-testing that _italics_ work and ~~strikethrough~~
+testing that _italics_ work and ~~strikethrough~~!
 
 | Column A | Column 2 |
 |:--------:|----------|
