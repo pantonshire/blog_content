@@ -1,10 +1,6 @@
 title = 'Testing'
 subtitle = 'In which we test my post renderer works correctly.'
 author = 'Tom Panton'
-tags = [
-    'Test',
-    'Lorem',
-]
 published = '2022-06-05T11:00:13.318217Z'
 ---
 # Heading
