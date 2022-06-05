@@ -1,6 +1,7 @@
 title = 'Testing'
 subtitle = 'In which we test my post renderer works correctly.'
 author = 'Tom Panton'
+tags = []
 published = '2022-06-05T11:00:13.318217Z'
 ---
 # Heading
@@ -14,6 +15,7 @@ testing that _italics_ work and ~~strikethrough~~!
 | aiwdio w | apwidho  |
 
 ```ruby
+@@main.rb@@
 def fib(n)
   if n == 0 then
     0
