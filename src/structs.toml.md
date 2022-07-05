@@ -2,6 +2,7 @@ title = 'How the struct gets made'
 subtitle = 'In which peek behind the curtain to see how compilers represent our data types.'
 author = 'Tom Panton'
 tags = []
+published = '2022-07-05T20:16:17.285223829Z'
 ---
 A while back I came across a question online asking why Rust uses a different layout for structs
 than C. "Layout" here refers to the way a struct gets represented as a sequence of bytes in memory.
